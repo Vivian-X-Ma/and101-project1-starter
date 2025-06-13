@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-[//]: #<img src=https://submissions.us-east-1.linodeobjects.com/and101/sSz3tk4N.gif' title='Video Demo' width='' alt='Video Demo' />
+<!--- #<img src=https://submissions.us-east-1.linodeobjects.com/and101/sSz3tk4N.gif' title='Video Demo' width='' alt='Video Demo' /> --->
 ![codepath_and101_p1](https://github.com/user-attachments/assets/29098a42-ece7-47d2-912b-5d5658f9a5cd)
 
 
